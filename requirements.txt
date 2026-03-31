@@ -1,0 +1,6 @@
+requests==2.31.0
+python-dotenv==1.0.0
+colorama==0.4.6
+web3>=6.0.0
+coinbase-advanced-py>=1.2.0
+twilio>=8.0.0
